@@ -111,7 +111,7 @@ call s:highlight('ColorColumn', s:Chartreuse1, s:Grey15, s:none)
 
 " Interface highlighting
 call s:highlight('Normal', s:Grey74, s:Grey7, s:none)
-call s:highlight('Visual', s:clear, s:Grey0, s:none)
+call s:highlight('Visual', s:clear, s:Grey15, s:none)
 call s:highlight('Cursor', s:clear, s:Grey0, s:none)
 call s:highlight('iCursor', s:clear, s:Grey0, s:none)
 call s:highlight('LineNr', s:Grey66, s:clear, s:none)
